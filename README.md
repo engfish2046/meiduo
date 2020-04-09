@@ -1,6 +1,6 @@
 # KnowledgePointEntry
 KnowledgePointEntry
-知识点录入和图书检索
+知识点录入和图书检索（想的挺好，能不能做到）就是另一回事了
 
 BD---mysql   大了加MongoDB
 前端-前后端分离
